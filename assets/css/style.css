@@ -11,7 +11,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-image:url("/Users/annejoseph/Desktop/Homework/Develop/assets/images/background.jpeg");
+    background-image:url("../images/Gradiant_background.png");
     color: #ffffff;
 }
 
@@ -54,7 +54,7 @@ p {
     height: 300px;
     width: 15%;
     margin-bottom: 50px;
-    background-image: url("/Users/annejoseph/Desktop/Homework/Develop/assets/images/AnnesPhoto.jpg");
+    background-image: url("../images/AnnesPhoto.jpg");
     background-size:cover;
     background-position:center;
 }
@@ -79,7 +79,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-image: url(/Users/annejoseph/Desktop/Homework/Develop/assets/images/Gradiant_2.jpeg);
+    background-image: url("../images/Gradiant_2.jpeg");
     color: black;
 }
 
