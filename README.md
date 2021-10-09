@@ -21,7 +21,7 @@ Is to build a web application from scratch, a portfolio page fulfilling acceptan
 11. THEN I am presented with a responsive layout that adapts to my viewport.
 
 ## Credits
-- Study Group with Cohort Claudia, James,  Shana, Gospel, and Rachel
+- Study Group with Cohort Claudia, James, Gospel, and Rachel
   -   Class Notes by Ben Wright
   -   My friend Google
   -   MDN Web Docs.
